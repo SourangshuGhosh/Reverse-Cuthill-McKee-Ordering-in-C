@@ -1,6 +1,6 @@
 # Reverse-Cuthill-McKee-Ordering
 
-**RCM**, a MATLAB library which computes the Reverse Cuthill McKee (RCM) ordering of the nodes of a graph.
+**RCM**, a C++ library which computes the Reverse Cuthill McKee (RCM) ordering of the nodes of a graph.
 
 The RCM ordering is frequently used when a matrix is to be generated whose rows and columns are numbered according to the numbering of the nodes. By an appropriate renumbering of the nodes, it is often possible to produce a matrix with a much smaller bandwidth.
 
